@@ -1,0 +1,11 @@
+D:\gitwork\simplecalc\bin\Debug\netcoreapp2.1\simplecalc.deps.json
+D:\gitwork\simplecalc\bin\Debug\netcoreapp2.1\simplecalc.runtimeconfig.json
+D:\gitwork\simplecalc\bin\Debug\netcoreapp2.1\simplecalc.runtimeconfig.dev.json
+D:\gitwork\simplecalc\bin\Debug\netcoreapp2.1\simplecalc.dll
+D:\gitwork\simplecalc\bin\Debug\netcoreapp2.1\simplecalc.pdb
+D:\gitwork\simplecalc\obj\Debug\netcoreapp2.1\simplecalc.csprojAssemblyReference.cache
+D:\gitwork\simplecalc\obj\Debug\netcoreapp2.1\simplecalc.csproj.CoreCompileInputs.cache
+D:\gitwork\simplecalc\obj\Debug\netcoreapp2.1\simplecalc.AssemblyInfoInputs.cache
+D:\gitwork\simplecalc\obj\Debug\netcoreapp2.1\simplecalc.AssemblyInfo.cs
+D:\gitwork\simplecalc\obj\Debug\netcoreapp2.1\simplecalc.dll
+D:\gitwork\simplecalc\obj\Debug\netcoreapp2.1\simplecalc.pdb
