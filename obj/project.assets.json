@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\gitwork\\simplecalc\\simplecalc\\simplecalc.csproj",
+      "projectUniqueName": "D:\\gitwork\\simplecalc\\simplecalc.csproj",
       "projectName": "simplecalc",
-      "projectPath": "D:\\gitwork\\simplecalc\\simplecalc\\simplecalc.csproj",
+      "projectPath": "D:\\gitwork\\simplecalc\\simplecalc.csproj",
       "packagesPath": "C:\\Users\\47700246\\.nuget\\packages\\",
-      "outputPath": "D:\\gitwork\\simplecalc\\simplecalc\\obj\\",
+      "outputPath": "D:\\gitwork\\simplecalc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
